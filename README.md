@@ -221,6 +221,3 @@ For technical issues or feature requests, check the audit trail logs for error d
 - Mobile-responsive design
 - API integration capabilities
 
----
-
-**Made with ❤️ for railway operations optimization**
