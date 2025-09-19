@@ -1,0 +1,5 @@
+line_id,type,length_m,directionality
+single_up,single,92000,unidirectional
+single_down,single,92000,unidirectional
+central,central,92000,bidirectional
+loop,loop,10000,unidirectional

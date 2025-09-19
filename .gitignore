@@ -1,0 +1,19 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore environment variables
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore output files
+optimized_schedule.csv
+train_simulation_output_after.csv
+train_simulation_output_before.csv
+train_simulation_output.csv
+comparison_report.csv
+audit_trail_new.log
+audit_trail.log
+outputs/
