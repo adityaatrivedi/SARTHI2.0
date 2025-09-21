@@ -162,12 +162,6 @@ Every analysis run is logged with:
 - Matplotlib 3.7+
 - Seaborn 0.12+
 
-### System Requirements
-- **RAM**: 4GB+ recommended for large datasets
-- **Storage**: 1GB free space for data and logs
-- **Network**: Internet connection for initial package installation
-- **Browser**: Modern web browser (Chrome, Firefox, Safari, Edge)
-
 ## 📂 File Structure
 
 ```
